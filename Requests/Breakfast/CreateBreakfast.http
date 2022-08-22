@@ -1,0 +1,13 @@
+POST http://localhost:5050/breakfasts
+Content-Type: application/json
+
+{
+  "name" : "Vegan sugar and gari",
+  "description" : "vegan everything! join us to ..",
+  "startDateTime": "2020-05-08T08:00:00",
+  "endDateTime" : "2020-05-08T11:00:00",
+  "savory" : ["Oatmeal","Avocado Toast","Omelete","Salad"],
+    "Sweet" : ["Cookie"]
+}
+
+

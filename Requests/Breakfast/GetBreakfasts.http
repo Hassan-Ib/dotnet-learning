@@ -1,0 +1,8 @@
+GET http://localhost:5050/breakfasts
+Content-Type: application/json
+
+
+
+###
+GET https://localhost:7034/breakfasts/9fac1604-4f52-4a3d-bf5b-c7c026017261
+Content-Type: application/json
